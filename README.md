@@ -23,7 +23,7 @@ If you share my views or have interesting ideas, I'd love to chat! Feel free to 
 
 ###
 
-<h2 align="center">Languages I work with ^_^</h2>
+<h2 align="center">Languages I work with ^~^</h2>
 
 ###
 
