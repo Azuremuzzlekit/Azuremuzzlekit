@@ -18,7 +18,7 @@ Welcome to my little corner of code and nostalgia. I write in **C, JavaScript**,
 Sometimes, I just turn on **Minecraft music** and take a trip down memory lane. In those moments, it feels like I'm alone with myself, watching my childhood flash before my eyes... :3
 
 ## How to Reach Me
-If you share my views or have interesting ideas, I'd love to chat! Feel free to message me if you want to discuss something cool. Let's make this world **a little more free and honest** together. :)
+If you share my views or have interesting ideas, I'd love to chat! Feel free to message me if you want to discuss something cool. Let's make this world **a little more free and honest** together :)
 </ul>
 
 ###
@@ -36,7 +36,7 @@ If you share my views or have interesting ideas, I'd love to chat! Feel free to 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuremuzzlekit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuremuzzlekit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=dark&hide_border=true&order=2" height="170" alt="languages graph"  />
 </div>
 
 ###
