@@ -34,13 +34,13 @@ If you share my views or have interesting ideas, I'd love to chat! Feel free to 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="52" alt="bash logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/golang/golang-original.svg" height="52" alt="golang logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="52" alt="golang logo"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Ad4ndi&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Azuremuzzlekit&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=8&theme=onedark&hide_border=true&order=2" height="140" alt="languages graph"  />
 </div>
 
 ###
